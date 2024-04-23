@@ -1,0 +1,26 @@
+h1{
+    color: darkblue;
+}
+
+nav{
+    background-color: lightskyblue;
+    padding: 10px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a{
+    padding: 50px;
+    text-decoration:wavy;
+    font-weight: bold;
+    color: black;
+}
+
+nav a hover{
+    background-color: #ccc;
+
+}
+
+body{
+    background-color:antiquewhite;
+}
